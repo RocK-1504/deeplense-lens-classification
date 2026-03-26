@@ -34,6 +34,10 @@ Fine-tuned **ResNet18** (ImageNet pretrained) with:
 | Best Val AUC (macro) | 0.7585 |
 | Val Accuracy | ~57.6% |
 
+### ROC Curve
+
+![CNN](results/roc_cnn.png)
+
 ---
 
 ## Dataset
